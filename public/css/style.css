@@ -1,6 +1,6 @@
 .vertical-center {
   min-height: 100vh;
-  margin: 0;
+  margin: 100vh;
   display: flex;
   align-items: center;
 }
@@ -36,15 +36,4 @@ ul.messages.list-group {
   color: #2AC151;
 }
 .livesplit{
-  nav
-{
-    float: left;
-    width: 150px;
-    border: 1px solid black;
-}
-
-section
-{
-    margin-left: 170px;
-    border: 1px solid blue;
 }
