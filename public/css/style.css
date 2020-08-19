@@ -37,7 +37,7 @@ ul.messages.list-group {
 }
 .livesplit{
     osition: absolute;
-    top: 0px;
+    top: 10px;
     left: 0px;
     right: 0px;
     bottom: 0px;
