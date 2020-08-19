@@ -36,5 +36,9 @@ ul.messages.list-group {
   color: #2AC151;
 }
 .livesplit{
-    
+    osition: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
 }
